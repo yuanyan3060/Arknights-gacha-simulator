@@ -14,3 +14,5 @@
     )  
     改为你自己的参数  
  4.运行mirai, python main.py运行此项目  
+ 5.欢迎star  
+ 6.大佬求带  
