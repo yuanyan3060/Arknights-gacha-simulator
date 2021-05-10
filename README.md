@@ -16,4 +16,5 @@
  4.运行mirai, python main.py运行此项目  
  5.欢迎star  
  6.大佬求带  
+生成图片演示  
 ![Image text](https://raw.github.com/yuanyan3060/Arknights-gacha-simulator/master/test/十连.jpg)
