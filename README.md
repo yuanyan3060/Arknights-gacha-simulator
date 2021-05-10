@@ -1,5 +1,6 @@
 # Arknights-gacha-simulator  
 明日方舟抽卡模拟机器人  
+懒得自己部署的可以加qq群来体验一下（258140966）
 使用方法:  
   1.安装mirai和http插件  
   2.安装此项目python运行库  
